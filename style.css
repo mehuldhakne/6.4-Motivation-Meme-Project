@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+
+}
+.meme{
+    margin-top: 100px;
+    margin-left: 25%;
+   
+    width: 50%;
+}
+
+.photo{
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1{
+    color: white;
+    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
+    text-align: center;
+}
+ 
+p{
+    color: white;
+    margin: 0;
+    text-align: center;
+}
